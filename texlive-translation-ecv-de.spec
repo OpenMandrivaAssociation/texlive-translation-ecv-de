@@ -24,7 +24,6 @@ This is a "translation" of the ecv documentation.
 %files
 %doc %{_texmfdistdir}/doc/latex/translation-ecv-de/ecvde.dtx.pdf
 %doc %{_texmfdistdir}/doc/latex/translation-ecv-de/ecvde.dtx.tex
-%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -35,5 +34,3 @@ This is a "translation" of the ecv documentation.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
-mkdir -p %{buildroot}%{_tlpkgobjdir}
-cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
