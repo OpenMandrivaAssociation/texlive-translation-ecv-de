@@ -34,3 +34,15 @@ This is a "translation" of the ecv documentation.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Mar 22 2012 Paulo Andrade <pcpa@mandriva.com.br> 20110915-2
++ Revision: 786152
+- Rebuild to no longer install tlpobj files.
+
+* Fri Dec 09 2011 Paulo Andrade <pcpa@mandriva.com.br> 20110915-1
++ Revision: 739664
+- texlive-translation-ecv-de
+- texlive-translation-ecv-de
+
