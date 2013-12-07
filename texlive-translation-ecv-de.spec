@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-translation-ecv-de
 Version:	20110915
-Release:	5
+Release:	6
 Summary:	German version of evc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/translations/ecv/de
