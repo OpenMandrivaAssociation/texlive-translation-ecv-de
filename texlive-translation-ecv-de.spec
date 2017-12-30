@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version undef
 Name:		texlive-translation-ecv-de
-Version:	20110915
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	German version of evc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/translations/ecv/de
