@@ -1,6 +1,6 @@
 Name:		texlive-translation-ecv-de
 Version:	24754
-Release:	1
+Release:	2
 Summary:	German version of evc
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/info/translations/ecv/de
