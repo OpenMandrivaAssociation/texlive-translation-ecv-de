@@ -3,7 +3,7 @@ Version:	24754
 Release:	2
 Summary:	German version of evc
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/info/translations/ecv/de
+URL:		https://www.ctan.org/tex-archive/info/translations/ecv/de
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translation-ecv-de.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/translation-ecv-de.doc.r%{version}.tar.xz
